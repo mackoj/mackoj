@@ -20,7 +20,7 @@ I focus on maintainable architecture, improving developer experience and efficie
 - 💡 Being a driver of innovation
 - 👥 Help establish best practices
 
-🐦 My twitter: @jeffreymacko
+🐦 Twitter: [@jeffreymacko](https://twitter.com/jeffreymacko)
 
 <br/>
 <br/>
