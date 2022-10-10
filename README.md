@@ -24,5 +24,5 @@ I focus on maintainable architecture, improving developer experience and efficie
 🐦 My twitter: @jeffreymacko
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mackoj&show_icons=true&locale=en&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mackoj&show_icons=true&locale=en&layout=compact&count_private=true)
 ![Mackoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackoj&theme=default&show_icons=true&count_private=true)
