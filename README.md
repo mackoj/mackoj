@@ -3,7 +3,7 @@
 
 ## About Me
 
-Calm, thoughtful and curious developer, currently building Sambot. Worked on apps for PagesJaunes, SeLoger, Lacoste, Louboutin, KLM, Boomerang and help Mojo with delivery efficiency. Been building apps since 2010 in small and big teams.
+Calm, thoughtful and curious developer, currently at Jay & Jay(Sambot). Been building apps since 2010 in small and big teams for PagesJaunes, SeLoger, Lacoste, Louboutin, KLM, Boomerang and help Mojo with CI/CD.
 
 Outside of regular app development I've contribute to many open source tools that I use and created a lot of tools to improve my team workflow.
 
