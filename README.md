@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am a calm, thoughtful and curious developer, currently building things at Sambot.
+I am a calm, thoughtful and curious developer, currently building things at Jay & Jay.
 
 In the past I used to lead iOS at PagesJaunes, worked on apps like SeLoger, Lacoste, Louboutin, KLM, Boomerang and help Mojo with delivery efficiency.
 
