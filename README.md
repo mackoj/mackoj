@@ -1,7 +1,7 @@
-# Hi there 👋
+### Hi there 👋
 
 
-### About Me
+## About Me
 I am a calm, thoughtful and curious developer, currently building things at Sambot.
 
 In the past I used to lead iOS at PagesJaunes, worked on apps like SeLoger, Lacoste, Louboutin, KLM, Boomerang and help Mojo with delivery efficiency.
@@ -10,6 +10,7 @@ Outside of regular app development I've contribute to many open source tools tha
 
 I've done a few talks about iOS topics at conferences & meetups. https://speakerdeck.com/mackoj
 
+## My expertise
 
 I focus on maintainable architecture, improving developer experience and efficiency by:
 - 🤔 Designing flexible architecture that can be easily maintained and scaled
@@ -22,7 +23,7 @@ I focus on maintainable architecture, improving developer experience and efficie
 
 🐦 My twitter: @jeffreymacko
 
-### In the stat below private repositories stats are not shown.
+## In the stat below private repositories stats are not shown.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mackoj&show_icons=true&locale=en&layout=compact)
 ![Mackoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackoj&theme=default&show_icons=true)
