@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**mackoj/mackoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a calm, thoughtful and curious developer, currently building things at Sambot.
 
-Here are some ideas to get you started:
+In the past I used to lead iOS at PagesJaunes, worked on apps like SeLoger, Lacoste, Louboutin, KLM, Boomerang and help Mojo with delivery efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of regular app development I've contribute to many open source tools that I use and created a lot of tools to improve my team workflow.
+
+I've done a few talks about iOS topics at conferences & meetups. https://speakerdeck.com/mackoj
+
+
+I focus on maintainable architecture, improving developer experience and efficiency by:
+- 🤔 Designing flexible architecture that can be easily maintained and scaled
+- 🛠️ Design, implement and document flexible & pragmatic solutions for the most complex parts
+- 🗣 Communicate in clear and simple term with other teams (design, marketing, product, back-end)
+- 🧑‍💻 Train new developers
+- ⚙️ Improve process with automation and tooling
+- 💡 Being a driver of innovation
+- 👥 Help establish best practices
+
+🐦 My twitter: @jeffreymacko
+
+In the stat below private repositories stats are not shown.
+
+![Mackoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackoj&theme=default&show_icons=true)
