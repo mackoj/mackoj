@@ -14,8 +14,8 @@ I've done a few talks about iOS topics at conferences & meetups. https://speaker
 I focus on maintainable architecture, improving developer experience and efficiency by:
 - 👥 Work great in teams
 - 🤔 Designing flexible architecture that can be easily maintained and scaled
-- 🛠️ Design, implement and document flexible & pragmatic solutions to implementation issue
-- 🗣 Communicate in clear and simple term with other teams (design, marketing, product, back-end)
+- 🛠️ Design, implement and document flexible & pragmatic solutions to an implementation issue
+- 🗣 Communicate in clear and simple terms with other teams (design, marketing, product, back-end)
 - 🧑‍💻 Train new developers
 - ⚙️ Improve process with automation and tooling
 - 💡 Being a driver of innovation
